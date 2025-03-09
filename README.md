@@ -1,7 +1,8 @@
-<p align="center"><b> # **Agentic-AI - Projects** </b> </p>
+ #  **Agentic-AI - Projects**
 *Repo for all LLM based applications and projects employing Langchain, Langgraph, Streamlit, Pydantic, etc.*
-
-## **AI ChatBot** 
+<h2 align="center">
+<strong> AI ChatBot </strong> 
+  </h2>
 *Grok - LLM, 
 StreamLit- Frontend, 
 Pydantic - Schema Validation, 
@@ -10,7 +11,9 @@ Tavily-ForSearch*
 
 ![ChatBot-E2E](https://raw.githubusercontent.com/Coderified/Agentic-AI-/main/images/Chatbot-1.png)
 -------------------------------------------------------------------------------------------------
-## **PDF Q&A Chatbot - RAG**
+<h2 align="center">
+<strong>PDF Q&A Chatbot - RAG</strong> 
+  </h2>
 *Mistral-LLm,
 Streamlit- Fronend,
 HF, TextSplitter, FAISS, PyPDFLoader*
