@@ -1,0 +1,11 @@
+langchain
+langchain_huggingface
+langchain-core
+langchain-community
+faiss-cpu
+pypdf
+pymupdf
+lxml
+langchain-groq
+langgraph
+langgraph-cli[inmem]
